@@ -2,8 +2,10 @@
 
 Model to classify the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
 
-Implementation:
- - [Batch normalization](https://en.wikipedia.org/wiki/Batch_normalization) is utilized to improve performance and stability.
+Current Implementation:
+ - [2D Convolutional Layers](https://en.wikipedia.org/wiki/Convolutional_neural_network) for shift invariant learning.
+ - [Batch normalization](https://en.wikipedia.org/wiki/Batch_normalization) to improve stability and performance.
+ - [Dropout Layer](https://en.wikipedia.org/wiki/Dilution_(neural_networks)) for regularization.
 
 Results:
 
