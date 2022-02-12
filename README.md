@@ -1,6 +1,7 @@
 ﻿# CIFAR-10 Classifier
 
-Model to classify the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
+Description
+ - Model to classify the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
 
 Features:
  - 32 X 32 X 3 tensor of RGB image data.
