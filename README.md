@@ -3,7 +3,7 @@
 Model to classify the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
 
 Current Implementation:
- - [2D Convolutional Layers](https://en.wikipedia.org/wiki/Convolutional_neural_network) for shift invariant learning.
+ - [2D Convolutional Layers](https://en.wikipedia.org/wiki/Convolutional_neural_network) for shift-invariant learning.
  - [Batch normalization](https://en.wikipedia.org/wiki/Batch_normalization) to improve stability and performance.
  - [Dropout Layer](https://en.wikipedia.org/wiki/Dilution_(neural_networks)) for regularization.
 
