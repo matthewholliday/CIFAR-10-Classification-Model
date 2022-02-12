@@ -1,4 +1,4 @@
-﻿# CIFAR10-classifier
+﻿# CIFAR-10 Classifier
 
 Model to classify the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
 
