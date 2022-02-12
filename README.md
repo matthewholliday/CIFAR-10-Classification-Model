@@ -3,7 +3,7 @@
 Model to classify the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
 
 Features:
- - 32*32*3 tensor of RGB image data.
+ - 32x32x3 tensor of RGB image data.
 
 Current Implementation:
  - [2D Convolutional Layers](https://en.wikipedia.org/wiki/Convolutional_neural_network) for shift-invariant learning.
